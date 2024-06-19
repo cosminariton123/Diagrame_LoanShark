@@ -1,1 +1,1 @@
-# Diagrame UML pentru un proiect de la facultate.
+# UML diagrams for a University Project
